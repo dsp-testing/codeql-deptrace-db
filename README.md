@@ -1,0 +1,1 @@
+# codeql-deptrace-db
